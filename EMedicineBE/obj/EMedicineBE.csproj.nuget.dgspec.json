@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\UIS\\Desktop\\EMedicineBE\\EMedicineBE.csproj": {}
+    "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\EMedicineBE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\UIS\\Desktop\\EMedicineBE\\EMedicineBE.csproj": {
+    "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\EMedicineBE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\UIS\\Desktop\\EMedicineBE\\EMedicineBE.csproj",
+        "projectUniqueName": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\EMedicineBE.csproj",
         "projectName": "EMedicineBE",
-        "projectPath": "C:\\Users\\UIS\\Desktop\\EMedicineBE\\EMedicineBE.csproj",
+        "projectPath": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\EMedicineBE.csproj",
         "packagesPath": "C:\\Users\\UIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\UIS\\Desktop\\EMedicineBE\\obj\\",
+        "outputPath": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\UIS\\AppData\\Roaming\\NuGet\\NuGet.Config",
