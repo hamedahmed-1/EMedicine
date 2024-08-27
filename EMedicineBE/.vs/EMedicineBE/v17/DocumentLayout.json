@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|c:\\users\\uis\\desktop\\emedicine\\emedicinebe\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|solutionrelative:controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|c:\\users\\uis\\desktop\\emedicine\\emedicinebe\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|c:\\users\\uis\\desktop\\emedicine\\emedicinebe\\models\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|solutionrelative:models\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|c:\\users\\uis\\desktop\\emedicine\\emedicinebe\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|c:\\users\\uis\\desktop\\emedicine\\emedicinebe\\models\\medicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|solutionrelative:models\\medicines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|c:\\users\\uis\\desktop\\emedicine\\emedicinebe\\models\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|solutionrelative:models\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|c:\\users\\uis\\desktop\\emedicine\\emedicinebe\\controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|solutionrelative:controllers\\medicinescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|c:\\users\\uis\\desktop\\emedicine\\emedicinebe\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|c:\\users\\uis\\desktop\\emedicine\\emedicinebe\\models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|solutionrelative:models\\response.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|c:\\users\\uis\\desktop\\emedicine\\emedicinebe\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5624F189-6C6D-4A21-BDFC-60E28269360C}|EMedicineBE.csproj|c:\\users\\uis\\desktop\\emedicine\\emedicinebe\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,45 +59,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T12:02:33.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "MedicinesController.cs",
               "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Controllers\\MedicinesController.cs",
               "RelativeDocumentMoniker": "Controllers\\MedicinesController.cs",
               "ToolTip": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Controllers\\MedicinesController.cs",
               "RelativeToolTip": "Controllers\\MedicinesController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCwAAAAcAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T13:36:42.474Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T13:36:42.474Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DAL.cs",
               "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Models\\DAL.cs",
               "RelativeDocumentMoniker": "Models\\DAL.cs",
               "ToolTip": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Models\\DAL.cs",
               "RelativeToolTip": "Models\\DAL.cs",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAcwLMAAABIAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAA1wPwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-25T13:48:05.506Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Controllers\\UsersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAD4vywAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T13:42:36.97Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T13:42:36.97Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "OrderItems.cs",
               "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Models\\OrderItems.cs",
               "RelativeDocumentMoniker": "Models\\OrderItems.cs",
@@ -105,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Orders.cs",
               "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Models\\Orders.cs",
               "RelativeDocumentMoniker": "Models\\Orders.cs",
@@ -117,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Cart.cs",
               "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Models\\Cart.cs",
               "RelativeDocumentMoniker": "Models\\Cart.cs",
@@ -125,25 +140,23 @@
               "RelativeToolTip": "Models\\Cart.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T13:32:26.907Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T13:32:26.907Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Medicines.cs",
               "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Models\\Medicines.cs",
               "RelativeDocumentMoniker": "Models\\Medicines.cs",
               "ToolTip": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Models\\Medicines.cs",
               "RelativeToolTip": "Models\\Medicines.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T13:28:30.742Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T13:28:30.742Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Models\\Users.cs",
               "RelativeDocumentMoniker": "Models\\Users.cs",
@@ -151,12 +164,11 @@
               "RelativeToolTip": "Models\\Users.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T13:23:21.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T13:23:21.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Response.cs",
               "DocumentMoniker": "C:\\Users\\UIS\\Desktop\\EMedicine\\EMedicineBE\\Models\\Response.cs",
               "RelativeDocumentMoniker": "Models\\Response.cs",
@@ -164,8 +176,7 @@
               "RelativeToolTip": "Models\\Response.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-25T13:21:00.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-25T13:21:00.597Z"
             }
           ]
         }
