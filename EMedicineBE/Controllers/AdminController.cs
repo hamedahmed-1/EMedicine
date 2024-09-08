@@ -33,6 +33,8 @@ namespace EMedicineBE.Controllers
             SqlConnection connection = new SqlConnection(_configuration.GetConnectionString("EMedCS").ToString());
             Response response = dal.userList(connection);
             return response;
+
+            //vdfsvbdsnk fjcvsd 
         }
     }
 }
